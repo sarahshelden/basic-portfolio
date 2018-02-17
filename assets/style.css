@@ -41,8 +41,10 @@ header h1 {
 nav {
     width: 300px;
     float: right;
-    margin-top: 25px;
+    margin-top: 35px;
     text-align: center;
+    padding:auto;
+
 
 }
 
